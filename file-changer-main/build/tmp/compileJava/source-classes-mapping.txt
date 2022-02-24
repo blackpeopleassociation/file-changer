@@ -1,2 +1,0 @@
-lyoni/armen/rat/Rat.java
- lyoni.armen.rat.Rat
